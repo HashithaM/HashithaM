@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hashitha Mihiran!;" />
-</h1>
+<h1 align="center" style="color: lightblue;">Hi 👋, I'm Hashitha Mihiran</h1>
 
 <h3 align="center">A Data Science Enthusiast from Sri Lanka.</h3>
 <img align="right" alt="coding" width="300" padx=10px pady=10px src="https://c4.wallpaperflare.com/wallpaper/238/832/888/artificial-intelligence-binary-digital-art-glowing-wallpaper-preview.jpg" >
