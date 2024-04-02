@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hashitha Mihiran</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hashitha Mihiran!;" />
+</h1>
 <h3 align="center">A Data Science Enthusiast from Sri Lanka.</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://media.licdn.com/dms/image/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=E7bkbArtUYog3r8P1SILuVpj4P2mpFvEoj2RWBMiaKU)")
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif" >
 
-- 🌱 I’m currently studying **at General Sir John Kotelawala Defence University, BSc (Hons) in Data Science & Business Analytics.**
+- 🌱 I’m currently studying **BSc (Hons) in Data Science & Business Analytics degree at General Sir John Kotelawala Defence University.
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistical Data Analytics**
 
