@@ -4,7 +4,7 @@
 <h3 align="center">A Data Science Enthusiast from Sri Lanka.</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/7379292/screenshots/15401203/media/a452ce0193001e90bc3d93853b33f9fa.gif" >
 
-- 🌱 I’m currently studying **BSc (Hons) in Data Science & Business Analytics degree at General Sir John Kotelawala Defence University.
+- 🌱 I’m currently studying BSc (Hons) in Data Science & Business Analytics degree at General Sir John Kotelawala Defence University.
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistical Data Analytics**
 
