@@ -1,34 +1,60 @@
-<h1 align="center" style="color: lightblue;">Hi 👋, I'm Hashitha Mihiran</h1>
+<div align="center">
 
-<h3 align="center">A Data Science Enthusiast from Sri Lanka.</h3>
-<img align="right" alt="coding" width="300" padx=10px pady=10px src="https://c4.wallpaperflare.com/wallpaper/238/832/888/artificial-intelligence-binary-digital-art-glowing-wallpaper-preview.jpg" >
+# Hi, I'm Hashitha Mihiran 👋
 
-- 🌱 I’m currently working as a Associate Data Engineer and I have completed BSc (Hons) in Data Science & Business Analytics degree at  General Sir John Kotelawala Defence University.
+### Associate Data Engineer · Data Science & Machine Learning
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Statistical Data Analytics**
+I enjoy turning data into reliable, useful solutions—from clean analytical workflows to practical machine-learning experiments.
 
-- 📫 How to reach me **hashithayapa@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://hashitham.github.io/personal_site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashitha-mihiran-95a5522ba/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hashitha-mihiran-95a5522ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hashitha-mihiran-95a5522ba" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61550657946231&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61550657946231&mibextid=zbwkwl" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a></p>
+## About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashitham&show_icons=true&locale=en&layout=compact" alt="hashitham" /></p>
+- 💼 Working as an **Associate Data Engineer**
+- 🎓 BSc (Hons) in **Data Science & Business Analytics**
+- 🧠 Interested in data engineering, statistical analysis, and applied machine learning
+- 🌱 Currently expanding my deep-learning knowledge through hands-on notebooks and experiments
+- 🌏 Based in Sri Lanka
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashitham&show_icons=true&locale=en" alt="hashitham" /></p>
+## Technical toolkit
+
+**Data & analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Machine learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Selected work
+
+| Project | What it explores |
+| --- | --- |
+| [Deep Learning Course](https://github.com/HashithaM/DeepLearningCourse) | Hands-on notebooks created while studying deep-learning concepts |
+| [Stock Price Change Notifier](https://github.com/HashithaM/Stock-price-change-notifier) | Python automation that combines market movements, news, and notifications |
+| [Amazon Price Notifier](https://github.com/HashithaM/Amazon-price-notifier) | A practical price-monitoring workflow built with Python |
+| [Personal Website](https://github.com/HashithaM/personal_site) | My portfolio site, built with HTML and CSS |
+
+## Let's connect
+
+I'm always interested in thoughtful conversations about **data engineering, analytics, and machine learning**.
+
+- [LinkedIn](https://www.linkedin.com/in/hashitha-mihiran-95a5522ba/)
+- [Portfolio](https://hashitham.github.io/personal_site/)
