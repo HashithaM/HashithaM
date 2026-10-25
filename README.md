@@ -36,16 +36,8 @@ I build intelligent automation and data-driven systems that turn ideas into prac
 - Scalable data platforms for machine-learning systems
 - Practical ways to turn new technology into dependable products
 
-## Selected work
-
-| Project | What it explores |
-| --- | --- |
-| [Stock Price Change Notifier](https://github.com/HashithaM/Stock-price-change-notifier) | Python automation combining market movements, news, and notifications |
-| [Spotify Playlist Creator](https://github.com/HashithaM/Spotify-playlist-creator) | Web scraping and Spotify OAuth automation for date-based playlists |
-| [Quiz Game](https://github.com/HashithaM/Quiz-game) | A Tkinter application powered by the Open Trivia Database API |
-| [Personal Website](https://github.com/HashithaM/personal_site) | A personal portfolio built with HTML and CSS |
-
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/hashitha-mihiran-95a5522ba/)
 - [Portfolio](https://hashitham.github.io/personal_site/)
+- [Email](mailto:hashithayapa@gmail.com): hashithayapa@gmail.com
