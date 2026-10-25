@@ -2,59 +2,50 @@
 
 # Hi, I'm Hashitha Mihiran 👋
 
-### Associate Data Engineer · Data Science & Machine Learning
+### AI & Automation Engineer · Data Engineer · Technology Enthusiast
 
-I enjoy turning data into reliable, useful solutions—from clean analytical workflows to practical machine-learning experiments.
+I build intelligent automation and data-driven systems that turn ideas into practical, reliable technology.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=google-chrome&logoColor=white)](https://hashitham.github.io/personal_site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashitha-mihiran-95a5522ba/)
+[Portfolio](https://hashitham.github.io/personal_site/) · [LinkedIn](https://www.linkedin.com/in/hashitha-mihiran-95a5522ba/)
 
 </div>
 
 ## About me
 
-- 💼 Working as an **Associate Data Engineer**
-- 🎓 BSc (Hons) in **Data Science & Business Analytics**
-- 🧠 Interested in data engineering, statistical analysis, and applied machine learning
-- 🌱 Building practical Python projects across automation, analytics, APIs, and desktop applications
-- 🌏 Based in Sri Lanka
+- 💼 **AI & Automation Engineer** at **Keystone Software Technologies (Private) Limited**
+- 🎓 Following a **Master in Artificial Intelligence** at **Universiti Kebangsaan Malaysia (National University of Malaysia)**
+- ✅ Completed a **BSc (Hons) in Data Science & Business Analytics**
+- 🏗️ **2 years of industry experience** in data engineering
+- 📍 Based in **Kuala Lumpur, Malaysia**
+- ⚡ Curious about emerging technologies and focused on building useful AI-powered solutions
 
-## Technical toolkit
+## Experienced in
 
-**Data & analytics**
+- Artificial intelligence and intelligent automation
+- Machine learning and deep learning
+- Data engineering, ETL/ELT, and reliable data pipelines
+- Natural language processing and computer vision
+- Statistical and predictive analytics
+- Python automation and API integration
+- Cloud-based data and AI workflows
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+## Currently exploring
 
-**Machine learning**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- Generative AI applications and intelligent agents
+- Production-ready AI automation workflows
+- Scalable data platforms for machine-learning systems
+- Practical ways to turn new technology into dependable products
 
 ## Selected work
 
 | Project | What it explores |
 | --- | --- |
-| [Stock Price Change Notifier](https://github.com/HashithaM/Stock-price-change-notifier) | Python automation that combines market movements, news, and notifications |
-| [Quiz Game](https://github.com/HashithaM/Quiz-game) | A Tkinter quiz application powered by the Open Trivia Database API |
+| [Stock Price Change Notifier](https://github.com/HashithaM/Stock-price-change-notifier) | Python automation combining market movements, news, and notifications |
 | [Spotify Playlist Creator](https://github.com/HashithaM/Spotify-playlist-creator) | Web scraping and Spotify OAuth automation for date-based playlists |
-| [Personal Website](https://github.com/HashithaM/personal_site) | My portfolio site, built with HTML and CSS |
+| [Quiz Game](https://github.com/HashithaM/Quiz-game) | A Tkinter application powered by the Open Trivia Database API |
+| [Personal Website](https://github.com/HashithaM/personal_site) | A personal portfolio built with HTML and CSS |
 
 ## Let's connect
-
-I'm always interested in thoughtful conversations about **data engineering, analytics, and machine learning**.
 
 - [LinkedIn](https://www.linkedin.com/in/hashitha-mihiran-95a5522ba/)
 - [Portfolio](https://hashitham.github.io/personal_site/)
